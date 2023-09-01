@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/Kinfe123/rest-end-point/shared"
-	"github.com/bmdavis419/rest-end-point/router"
+	"github.com/Kinfe123/rest-end-point/router"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/fiber/v2/middleware/logger"
